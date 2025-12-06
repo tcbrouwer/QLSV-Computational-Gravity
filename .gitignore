@@ -1,0 +1,39 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.ipynb_checkpoints/
+
+# --- LaTeX Build Artifacts (Keep the directory clean) ---
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.dvi
+*.lof
+*.lot
+
+# --- Operating System ---
+.DS_Store
+Thumbs.db
+
+# --- IDEs / Editors ---
+.vscode/
+.idea/
+*.swp
+
+# --- Exceptions (Things we WANT to commit) ---
+# We generally want to keep the final PDF and the result images
+!QLSV_v3.7_Manuscript.pdf
+!qlsv_simulation.png
+!qlsv_cinematic_3d.png
