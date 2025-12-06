@@ -4,6 +4,8 @@
 
 > **"Spacetime is just the User Interface; Information is the Source Code."**
 
+NOTE: The code in simulation.py is an updated version with respect to the code in the manuscript and the pdf!
+
 ## 🌌 Overview
 
 **QLSV (Quantum Local State Vector)** is a candidate framework for Quantum Gravity that redefines physical reality as the output of a quantum computation occurring on a Tensor Network ($Q$).
