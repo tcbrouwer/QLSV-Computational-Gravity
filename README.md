@@ -1,6 +1,6 @@
 # QLSV v3.7: Gravity as Graph Computation
 
-![Simulation Result](qlsv_simulation.png)
+![Simulation Result](qlsv_cinematic_3d.png)
 
 > **"Spacetime is just the User Interface; Information is the Source Code."**
 
